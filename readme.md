@@ -20,6 +20,5 @@ Run `php artisan migrate`
 
 Run `php artisan db:seed`
 
-
-![enter image description here](https://github.com/Dilshan97/Laravel-ACL-System/blob/master/example.jpg "Example")
-
+<br>
+<img src="https://github.com/Dilshan97/Laravel-ACL-System/blob/master/example.jpg" >
