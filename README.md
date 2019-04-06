@@ -2,6 +2,8 @@
 
 Laravel User Roles and Permissions (ACL) using Spatie ACL Package.
 
+Spatie | laravel-permission - https://github.com/spatie/laravel-permission
+
 git clone https://github.com/Dilshan97/Laravel-ACL-System.git
 
 cd Laravel-ACL-System
