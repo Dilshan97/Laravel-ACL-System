@@ -21,4 +21,5 @@ Run `php artisan migrate`
 Run `php artisan db:seed`
 
 
-![enter image description here](https://github.com/Dilshan97/Laravel-ACL-System/example.jpg "Example")
+![enter image description here](https://github.com/Dilshan97/Laravel-ACL-System/blob/master/example.jpg "Example")
+
