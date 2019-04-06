@@ -19,3 +19,6 @@ Add your database credentials
 Run `php artisan migrate`
 
 Run `php artisan db:seed`
+
+<br>
+<img src="https://github.com/Dilshan97/Laravel-ACL-System/blob/master/example.jpg" >
